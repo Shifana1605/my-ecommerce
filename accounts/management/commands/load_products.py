@@ -1,7 +1,7 @@
 from django.core.management.base import BaseCommand
 from accounts.models import Category, Product
 import json
-
+#Category and product services
 class Command(BaseCommand):
     help = 'Load products data from JSON file'
 
