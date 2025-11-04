@@ -19,6 +19,9 @@ es = Elasticsearch("http://localhost:9200")
 # --------------------------------------------
 # Authentication + basic views
 # --------------------------------------------
+
+
+#Authentication services
 def signup_page(request):
     return render(request, 'accounts/signup.html')
 
