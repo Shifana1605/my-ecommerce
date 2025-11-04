@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ category.name }} - Products</title>
+</head>
+<body>
+    <h1>{{ category.name }} - Products</h1>
+    <p>{{ category.description }}</p>
+
+    <div>
+        {% for product in products %}
+            <div style="border:1px solid #ccc; padding:10px; margin:10px;">
+                <h3>{{ product.product_name }}</h3>
+                <p>MRP: ₹{{ product.mrp_price }}</p>
+                <p>Discount Price: ₹{{ product.discount_price }}</p>
+                <p>Quantity: {{ product.quantity }}</p>
+            </div>
+        {% empty %}
+            <p>No products available for this category.</p>
+        {% endfor %}
+    </div>
+
+    <div>
+        {% if products.has_previous %}
+            <a href="?page={{ products.previous_page_number }}">Previous</a>
+        {% endif %}
+        <span>Page {{ products.number }} of {{ products.paginator.num_pages }}</span>
+        {% if products.has_next %}
+            <a href="?page={{ products.next_page_number }}">Next</a>
+        {% endif %}
+    </div>
+
+    <a href="{% url 'all_products' %}">View All Products</a>
+</body>
+</html>

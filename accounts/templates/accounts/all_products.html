@@ -1,0 +1,56 @@
+{% extends 'accounts/base.html' %}
+{% block content %}
+<div class="container my-5">
+  <h2 class="text-center mb-4">All Products</h2>
+  <div class="row">
+    {% for product in products %}
+    <div class="col-md-3 mb-4">
+      <div class="card h-100 shadow-sm">
+        <div class="card-body text-center">
+          <h5 class="card-title">{{ product.product_name }}</h5>
+          <p class="card-text text-muted">MRP: ₹{{ product.mrp_price }}</p>
+          <h6 class="text-success">Discount: ₹{{ product.discount_price }}</h6>
+          <p>Available: {{ product.quantity }}</p>
+          <p class="text-secondary small">{{ product.category.category_name }}</p>
+        </div>
+      </div>
+    </div>
+    {% empty %}
+    <p class="text-center">No products available.</p>
+    {% endfor %}
+  </div>
+
+  <!-- Pagination -->
+  <div class="d-flex justify-content-center mt-4">
+    <nav aria-label="Product pagination">
+      <ul class="pagination">
+        {% if products.has_previous %}
+          <li class="page-item">
+            <a class="page-link" href="?page={{ products.previous_page_number }}">Previous</a>
+          </li>
+        {% else %}
+          <li class="page-item disabled"><span class="page-link">Previous</span></li>
+        {% endif %}
+
+        <li class="page-item disabled">
+          <span class="page-link">
+            Page {{ products.number }} of {{ products.paginator.num_pages }}
+          </span>
+        </li>
+
+        {% if products.has_next %}
+          <li class="page-item">
+            <a class="page-link" href="?page={{ products.next_page_number }}">Next</a>
+          </li>
+        {% else %}
+          <li class="page-item disabled"><span class="page-link">Next</span></li>
+        {% endif %}
+      </ul>
+    </nav>
+  </div>
+
+  <div class="text-center mt-3">
+    <a href="{% url 'ecommerce_home' %}" class="btn btn-warning">Go Back</a>
+  </div>
+</div>
+{% endblock %}

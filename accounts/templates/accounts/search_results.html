@@ -1,0 +1,26 @@
+{% extends 'accounts/base.html' %}
+
+{% block content %}
+<div class="container mt-5">
+  <h2 class="mb-4">Search results for "{{ query }}"</h2>
+
+  {% if products %}
+    <div class="row">
+      {% for product in products %}
+        <div class="col-md-3 mb-4">
+          <div class="card p-3 shadow-sm">
+            <h5>{{ product.name }}</h5>
+            <p>{{ product.description }}</p>
+            <p><strong>₹{{ product.price }}</strong></p>
+            {% if product.category %}
+              <span class="badge bg-secondary">{{ product.category }}</span>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p>No products found.</p>
+  {% endif %}
+</div>
+{% endblock %}

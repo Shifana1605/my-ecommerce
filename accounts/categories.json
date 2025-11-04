@@ -1,0 +1,82 @@
+[
+  {
+    "model": "accounts.category",
+    "pk": 1,
+    "fields": {
+      "category_name": "Clothing",
+      "description": "Trendy fashion wear for men and women"
+    }
+  },
+  {
+    "model": "accounts.category",
+    "pk": 2,
+    "fields": {
+      "category_name": "Electronics",
+      "description": "Latest gadgets, phones, and accessories"
+    }
+  },
+  {
+    "model": "accounts.category",
+    "pk": 3,
+    "fields": {
+      "category_name": "Home Appliances",
+      "description": "Everything for your home and kitchen"
+    }
+  },
+  {
+    "model": "accounts.category",
+    "pk": 4,
+    "fields": {
+      "category_name": "Beauty & Personal Care",
+      "description": "Cosmetics, skincare, and grooming essentials"
+    }
+  },
+  {
+    "model": "accounts.category",
+    "pk": 5,
+    "fields": {
+      "category_name": "Books",
+      "description": "Fiction, non-fiction, academic and more"
+    }
+  },
+  {
+    "model": "accounts.category",
+    "pk": 6,
+    "fields": {
+      "category_name": "Sports & Fitness",
+      "description": "Sports gear, fitness equipment, and accessories"
+    }
+  },
+  {
+    "model": "accounts.category",
+    "pk": 7,
+    "fields": {
+      "category_name": "Toys & Baby Products",
+      "description": "Toys, games, and baby care products"
+    }
+  },
+  {
+    "model": "accounts.category",
+    "pk": 8,
+    "fields": {
+      "category_name": "Automotive",
+      "description": "Car and bike accessories, tools, and gadgets"
+    }
+  },
+  {
+    "model": "accounts.category",
+    "pk": 9,
+    "fields": {
+      "category_name": "Furniture",
+      "description": "Modern furniture for home and office"
+    }
+  },
+  {
+    "model": "accounts.category",
+    "pk": 10,
+    "fields": {
+      "category_name": "Groceries",
+      "description": "Daily essentials and food items"
+    }
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "T-Shirt",
+      "mrp_price": 1417,
+      "discount_price": 1225,
+      "quantity": 81
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Jeans",
+      "mrp_price": 516,
+      "discount_price": 100,
+      "quantity": 73
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Jacket",
+      "mrp_price": 4097,
+      "discount_price": 3205,
+      "quantity": 69
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Kurti",
+      "mrp_price": 4770,
+      "discount_price": 4353,
+      "quantity": 70
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Saree",
+      "mrp_price": 4465,
+      "discount_price": 4328,
+      "quantity": 20
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Sweatshirt",
+      "mrp_price": 2460,
+      "discount_price": 2024,
+      "quantity": 56
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Shorts",
+      "mrp_price": 4160,
+      "discount_price": 3947,
+      "quantity": 67
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Blazer",
+      "mrp_price": 3301,
+      "discount_price": 3098,
+      "quantity": 66
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Hoodie",
+      "mrp_price": 3467,
+      "discount_price": 3107,
+      "quantity": 31
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Skirt",
+      "mrp_price": 3798,
+      "discount_price": 2837,
+      "quantity": 81
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Capri",
+      "mrp_price": 1017,
+      "discount_price": 520,
+      "quantity": 22
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Pajama Set",
+      "mrp_price": 4566,
+      "discount_price": 3921,
+      "quantity": 58
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Chinos",
+      "mrp_price": 4502,
+      "discount_price": 3858,
+      "quantity": 85
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Track Pants",
+      "mrp_price": 1933,
+      "discount_price": 1322,
+      "quantity": 54
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Formal Shirt",
+      "mrp_price": 2879,
+      "discount_price": 2065,
+      "quantity": 45
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Casual Shirt",
+      "mrp_price": 1787,
+      "discount_price": 787,
+      "quantity": 83
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Pullover",
+      "mrp_price": 1538,
+      "discount_price": 997,
+      "quantity": 73
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Dupatta",
+      "mrp_price": 4521,
+      "discount_price": 3638,
+      "quantity": 27
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Leggings",
+      "mrp_price": 3482,
+      "discount_price": 2695,
+      "quantity": 44
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 1,
+      "product_name": "Vest",
+      "mrp_price": 4193,
+      "discount_price": 3531,
+      "quantity": 97
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Smartphone",
+      "mrp_price": 3677,
+      "discount_price": 3220,
+      "quantity": 59
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Laptop",
+      "mrp_price": 4525,
+      "discount_price": 3970,
+      "quantity": 77
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Bluetooth Speaker",
+      "mrp_price": 1545,
+      "discount_price": 981,
+      "quantity": 75
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Wireless Earbuds",
+      "mrp_price": 3833,
+      "discount_price": 3319,
+      "quantity": 90
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Smartwatch",
+      "mrp_price": 2461,
+      "discount_price": 1911,
+      "quantity": 56
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Power Bank",
+      "mrp_price": 1759,
+      "discount_price": 1431,
+      "quantity": 92
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Monitor",
+      "mrp_price": 1738,
+      "discount_price": 837,
+      "quantity": 51
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Keyboard",
+      "mrp_price": 4577,
+      "discount_price": 3911,
+      "quantity": 85
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Mouse",
+      "mrp_price": 2515,
+      "discount_price": 1581,
+      "quantity": 40
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Printer",
+      "mrp_price": 2685,
+      "discount_price": 2299,
+      "quantity": 20
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Tablet",
+      "mrp_price": 3943,
+      "discount_price": 3143,
+      "quantity": 32
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Charger",
+      "mrp_price": 4212,
+      "discount_price": 3376,
+      "quantity": 44
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Headphones",
+      "mrp_price": 4086,
+      "discount_price": 3622,
+      "quantity": 27
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Camera",
+      "mrp_price": 1223,
+      "discount_price": 734,
+      "quantity": 98
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Tripod",
+      "mrp_price": 2216,
+      "discount_price": 1984,
+      "quantity": 75
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Router",
+      "mrp_price": 814,
+      "discount_price": 100,
+      "quantity": 81
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "TV",
+      "mrp_price": 3698,
+      "discount_price": 2985,
+      "quantity": 40
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Pendrive",
+      "mrp_price": 2042,
+      "discount_price": 1179,
+      "quantity": 51
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "External Hard Disk",
+      "mrp_price": 4989,
+      "discount_price": 4056,
+      "quantity": 55
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 2,
+      "product_name": "Projector",
+      "mrp_price": 2624,
+      "discount_price": 2210,
+      "quantity": 64
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Mixer Grinder",
+      "mrp_price": 2724,
+      "discount_price": 1946,
+      "quantity": 47
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Microwave Oven",
+      "mrp_price": 1245,
+      "discount_price": 291,
+      "quantity": 85
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Refrigerator",
+      "mrp_price": 4261,
+      "discount_price": 3358,
+      "quantity": 81
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Air Conditioner",
+      "mrp_price": 596,
+      "discount_price": 100,
+      "quantity": 67
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Induction Cooktop",
+      "mrp_price": 2978,
+      "discount_price": 2048,
+      "quantity": 66
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Washing Machine",
+      "mrp_price": 2397,
+      "discount_price": 1690,
+      "quantity": 73
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Electric Kettle",
+      "mrp_price": 3347,
+      "discount_price": 2782,
+      "quantity": 73
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Iron Box",
+      "mrp_price": 4372,
+      "discount_price": 3669,
+      "quantity": 57
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Vacuum Cleaner",
+      "mrp_price": 4649,
+      "discount_price": 4536,
+      "quantity": 30
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Ceiling Fan",
+      "mrp_price": 4805,
+      "discount_price": 4346,
+      "quantity": 65
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Room Heater",
+      "mrp_price": 3381,
+      "discount_price": 3121,
+      "quantity": 73
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Dishwasher",
+      "mrp_price": 4846,
+      "discount_price": 4361,
+      "quantity": 27
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Water Purifier",
+      "mrp_price": 2088,
+      "discount_price": 1729,
+      "quantity": 56
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Air Fryer",
+      "mrp_price": 2103,
+      "discount_price": 1511,
+      "quantity": 21
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Toaster",
+      "mrp_price": 3018,
+      "discount_price": 2225,
+      "quantity": 91
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Coffee Maker",
+      "mrp_price": 3400,
+      "discount_price": 3210,
+      "quantity": 65
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Rice Cooker",
+      "mrp_price": 4389,
+      "discount_price": 4078,
+      "quantity": 25
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Blender",
+      "mrp_price": 4541,
+      "discount_price": 4133,
+      "quantity": 54
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Steam Iron",
+      "mrp_price": 1201,
+      "discount_price": 620,
+      "quantity": 100
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 3,
+      "product_name": "Chimney",
+      "mrp_price": 1283,
+      "discount_price": 930,
+      "quantity": 79
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Face Wash",
+      "mrp_price": 3609,
+      "discount_price": 3422,
+      "quantity": 55
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Moisturizer",
+      "mrp_price": 1185,
+      "discount_price": 488,
+      "quantity": 62
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Shampoo",
+      "mrp_price": 1024,
+      "discount_price": 337,
+      "quantity": 95
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Conditioner",
+      "mrp_price": 3367,
+      "discount_price": 3049,
+      "quantity": 33
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Lipstick",
+      "mrp_price": 1209,
+      "discount_price": 986,
+      "quantity": 57
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Perfume",
+      "mrp_price": 3540,
+      "discount_price": 3041,
+      "quantity": 42
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Hair Dryer",
+      "mrp_price": 2737,
+      "discount_price": 2286,
+      "quantity": 89
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Trimmer",
+      "mrp_price": 1753,
+      "discount_price": 1578,
+      "quantity": 65
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Makeup Kit",
+      "mrp_price": 2878,
+      "discount_price": 2040,
+      "quantity": 42
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Foundation",
+      "mrp_price": 738,
+      "discount_price": 100,
+      "quantity": 31
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Nail Polish",
+      "mrp_price": 926,
+      "discount_price": 507,
+      "quantity": 35
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Body Lotion",
+      "mrp_price": 2125,
+      "discount_price": 1327,
+      "quantity": 30
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Sunscreen",
+      "mrp_price": 4777,
+      "discount_price": 4247,
+      "quantity": 53
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Beard Oil",
+      "mrp_price": 4844,
+      "discount_price": 4661,
+      "quantity": 69
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Compact Powder",
+      "mrp_price": 2954,
+      "discount_price": 1974,
+      "quantity": 91
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Eyeliner",
+      "mrp_price": 4290,
+      "discount_price": 3784,
+      "quantity": 67
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Face Serum",
+      "mrp_price": 510,
+      "discount_price": 253,
+      "quantity": 82
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Hair Serum",
+      "mrp_price": 1547,
+      "discount_price": 1032,
+      "quantity": 40
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Face Mask",
+      "mrp_price": 4617,
+      "discount_price": 4226,
+      "quantity": 57
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 4,
+      "product_name": "Body Wash",
+      "mrp_price": 567,
+      "discount_price": 447,
+      "quantity": 77
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Fiction Novel",
+      "mrp_price": 3291,
+      "discount_price": 2368,
+      "quantity": 80
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Science Textbook",
+      "mrp_price": 2652,
+      "discount_price": 1944,
+      "quantity": 58
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Biography",
+      "mrp_price": 3989,
+      "discount_price": 3657,
+      "quantity": 85
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Children Storybook",
+      "mrp_price": 2425,
+      "discount_price": 2316,
+      "quantity": 42
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Comic Book",
+      "mrp_price": 3657,
+      "discount_price": 2774,
+      "quantity": 45
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Thriller Novel",
+      "mrp_price": 621,
+      "discount_price": 286,
+      "quantity": 80
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Cookbook",
+      "mrp_price": 4831,
+      "discount_price": 4718,
+      "quantity": 45
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Dictionary",
+      "mrp_price": 2502,
+      "discount_price": 1598,
+      "quantity": 81
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Encyclopedia",
+      "mrp_price": 3463,
+      "discount_price": 3023,
+      "quantity": 22
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Fantasy Book",
+      "mrp_price": 4659,
+      "discount_price": 4556,
+      "quantity": 78
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Programming Guide",
+      "mrp_price": 3067,
+      "discount_price": 2930,
+      "quantity": 67
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "History Book",
+      "mrp_price": 1756,
+      "discount_price": 792,
+      "quantity": 35
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Poetry Collection",
+      "mrp_price": 1539,
+      "discount_price": 571,
+      "quantity": 32
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Business Book",
+      "mrp_price": 1992,
+      "discount_price": 1413,
+      "quantity": 20
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Romantic Novel",
+      "mrp_price": 652,
+      "discount_price": 100,
+      "quantity": 43
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Travel Guide",
+      "mrp_price": 4357,
+      "discount_price": 3419,
+      "quantity": 73
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Philosophy Book",
+      "mrp_price": 2154,
+      "discount_price": 1882,
+      "quantity": 27
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Art Book",
+      "mrp_price": 3769,
+      "discount_price": 3489,
+      "quantity": 99
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Language Learning Book",
+      "mrp_price": 3791,
+      "discount_price": 3538,
+      "quantity": 35
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 5,
+      "product_name": "Health & Fitness Book",
+      "mrp_price": 3206,
+      "discount_price": 3002,
+      "quantity": 57
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Cricket Bat",
+      "mrp_price": 4157,
+      "discount_price": 3301,
+      "quantity": 77
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Football",
+      "mrp_price": 1450,
+      "discount_price": 1137,
+      "quantity": 49
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Tennis Racket",
+      "mrp_price": 3865,
+      "discount_price": 3752,
+      "quantity": 22
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Yoga Mat",
+      "mrp_price": 1795,
+      "discount_price": 1581,
+      "quantity": 39
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Dumbbells",
+      "mrp_price": 3707,
+      "discount_price": 3091,
+      "quantity": 66
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Skipping Rope",
+      "mrp_price": 4165,
+      "discount_price": 3874,
+      "quantity": 63
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Gym Gloves",
+      "mrp_price": 4439,
+      "discount_price": 4298,
+      "quantity": 55
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Water Bottle",
+      "mrp_price": 3123,
+      "discount_price": 2174,
+      "quantity": 73
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Fitness Tracker",
+      "mrp_price": 1972,
+      "discount_price": 1625,
+      "quantity": 88
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Treadmill",
+      "mrp_price": 2094,
+      "discount_price": 1707,
+      "quantity": 54
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Resistance Bands",
+      "mrp_price": 3119,
+      "discount_price": 2760,
+      "quantity": 44
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Cycle",
+      "mrp_price": 2546,
+      "discount_price": 1872,
+      "quantity": 98
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Shuttlecock",
+      "mrp_price": 2701,
+      "discount_price": 2376,
+      "quantity": 24
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Basketball",
+      "mrp_price": 1326,
+      "discount_price": 1210,
+      "quantity": 31
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Football Shoes",
+      "mrp_price": 1346,
+      "discount_price": 1029,
+      "quantity": 40
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Sports Bag",
+      "mrp_price": 1209,
+      "discount_price": 1098,
+      "quantity": 40
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Running Shoes",
+      "mrp_price": 3337,
+      "discount_price": 2927,
+      "quantity": 96
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Goalkeeper Gloves",
+      "mrp_price": 1709,
+      "discount_price": 1335,
+      "quantity": 54
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Punching Bag",
+      "mrp_price": 3306,
+      "discount_price": 2406,
+      "quantity": 85
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 6,
+      "product_name": "Protein Shaker",
+      "mrp_price": 2206,
+      "discount_price": 1942,
+      "quantity": 52
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Soft Toy",
+      "mrp_price": 4690,
+      "discount_price": 3931,
+      "quantity": 38
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Building Blocks",
+      "mrp_price": 3320,
+      "discount_price": 2959,
+      "quantity": 87
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Remote Car",
+      "mrp_price": 3277,
+      "discount_price": 2709,
+      "quantity": 45
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Puzzle Set",
+      "mrp_price": 4417,
+      "discount_price": 3738,
+      "quantity": 30
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Baby Diaper",
+      "mrp_price": 4081,
+      "discount_price": 3908,
+      "quantity": 42
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Toy Train",
+      "mrp_price": 2634,
+      "discount_price": 1934,
+      "quantity": 25
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Baby Lotion",
+      "mrp_price": 4077,
+      "discount_price": 3230,
+      "quantity": 54
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Baby Shampoo",
+      "mrp_price": 1473,
+      "discount_price": 545,
+      "quantity": 23
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Cradle",
+      "mrp_price": 2541,
+      "discount_price": 2268,
+      "quantity": 43
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Teething Toy",
+      "mrp_price": 1047,
+      "discount_price": 560,
+      "quantity": 81
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Baby Blanket",
+      "mrp_price": 4999,
+      "discount_price": 4795,
+      "quantity": 70
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Rattle",
+      "mrp_price": 3464,
+      "discount_price": 3122,
+      "quantity": 100
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Stuffed Animal",
+      "mrp_price": 4229,
+      "discount_price": 3492,
+      "quantity": 61
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Coloring Book",
+      "mrp_price": 3755,
+      "discount_price": 3349,
+      "quantity": 32
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Baby Bottle",
+      "mrp_price": 2845,
+      "discount_price": 2068,
+      "quantity": 76
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Play Tent",
+      "mrp_price": 2818,
+      "discount_price": 2289,
+      "quantity": 36
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Rubber Duck",
+      "mrp_price": 3771,
+      "discount_price": 3525,
+      "quantity": 33
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Toy Drum",
+      "mrp_price": 3106,
+      "discount_price": 2994,
+      "quantity": 72
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Baby Powder",
+      "mrp_price": 3181,
+      "discount_price": 2872,
+      "quantity": 38
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 7,
+      "product_name": "Baby Soap",
+      "mrp_price": 2088,
+      "discount_price": 1701,
+      "quantity": 99
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Car Cover",
+      "mrp_price": 3985,
+      "discount_price": 3777,
+      "quantity": 71
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Bike Helmet",
+      "mrp_price": 4024,
+      "discount_price": 3693,
+      "quantity": 58
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Car Vacuum",
+      "mrp_price": 1923,
+      "discount_price": 1183,
+      "quantity": 53
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Seat Cushion",
+      "mrp_price": 2694,
+      "discount_price": 2223,
+      "quantity": 82
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Steering Cover",
+      "mrp_price": 4764,
+      "discount_price": 4408,
+      "quantity": 87
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Air Compressor",
+      "mrp_price": 553,
+      "discount_price": 100,
+      "quantity": 98
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Tyre Inflator",
+      "mrp_price": 2584,
+      "discount_price": 2132,
+      "quantity": 75
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Bike Gloves",
+      "mrp_price": 2571,
+      "discount_price": 2145,
+      "quantity": 55
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Car Perfume",
+      "mrp_price": 1325,
+      "discount_price": 1082,
+      "quantity": 98
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "GPS Tracker",
+      "mrp_price": 1977,
+      "discount_price": 1244,
+      "quantity": 80
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Car Jack",
+      "mrp_price": 3370,
+      "discount_price": 2590,
+      "quantity": 35
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Headlight Bulb",
+      "mrp_price": 1064,
+      "discount_price": 312,
+      "quantity": 28
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Car Charger",
+      "mrp_price": 824,
+      "discount_price": 100,
+      "quantity": 23
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Dash Camera",
+      "mrp_price": 2131,
+      "discount_price": 1719,
+      "quantity": 92
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Bike Lock",
+      "mrp_price": 3277,
+      "discount_price": 3011,
+      "quantity": 51
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Wiper Blades",
+      "mrp_price": 2367,
+      "discount_price": 1369,
+      "quantity": 83
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Car Wash Kit",
+      "mrp_price": 2480,
+      "discount_price": 2355,
+      "quantity": 77
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Engine Oil",
+      "mrp_price": 4713,
+      "discount_price": 3833,
+      "quantity": 40
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Alloy Wheel",
+      "mrp_price": 2990,
+      "discount_price": 2068,
+      "quantity": 98
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 8,
+      "product_name": "Car Mats",
+      "mrp_price": 3848,
+      "discount_price": 3118,
+      "quantity": 33
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Sofa",
+      "mrp_price": 1115,
+      "discount_price": 950,
+      "quantity": 53
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Dining Table",
+      "mrp_price": 3375,
+      "discount_price": 2834,
+      "quantity": 89
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Chair Set",
+      "mrp_price": 510,
+      "discount_price": 100,
+      "quantity": 30
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Coffee Table",
+      "mrp_price": 2566,
+      "discount_price": 2393,
+      "quantity": 68
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Bookshelf",
+      "mrp_price": 3515,
+      "discount_price": 3347,
+      "quantity": 75
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Wardrobe",
+      "mrp_price": 3341,
+      "discount_price": 2498,
+      "quantity": 29
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Study Table",
+      "mrp_price": 632,
+      "discount_price": 105,
+      "quantity": 38
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Office Chair",
+      "mrp_price": 996,
+      "discount_price": 189,
+      "quantity": 53
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "TV Stand",
+      "mrp_price": 2363,
+      "discount_price": 1823,
+      "quantity": 45
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Bed",
+      "mrp_price": 4162,
+      "discount_price": 3765,
+      "quantity": 92
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Mattress",
+      "mrp_price": 2489,
+      "discount_price": 2269,
+      "quantity": 40
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Side Table",
+      "mrp_price": 1761,
+      "discount_price": 1460,
+      "quantity": 35
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Shoe Rack",
+      "mrp_price": 3232,
+      "discount_price": 2772,
+      "quantity": 36
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Recliner",
+      "mrp_price": 4680,
+      "discount_price": 4264,
+      "quantity": 94
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Storage Cabinet",
+      "mrp_price": 3302,
+      "discount_price": 2690,
+      "quantity": 25
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Dressing Table",
+      "mrp_price": 1941,
+      "discount_price": 1400,
+      "quantity": 55
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Bean Bag",
+      "mrp_price": 2966,
+      "discount_price": 2493,
+      "quantity": 31
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Computer Table",
+      "mrp_price": 1659,
+      "discount_price": 1435,
+      "quantity": 81
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Bar Stool",
+      "mrp_price": 4024,
+      "discount_price": 3416,
+      "quantity": 59
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 9,
+      "product_name": "Cupboard",
+      "mrp_price": 4694,
+      "discount_price": 3878,
+      "quantity": 46
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Rice Bag",
+      "mrp_price": 3118,
+      "discount_price": 2981,
+      "quantity": 66
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Wheat Flour",
+      "mrp_price": 1929,
+      "discount_price": 1317,
+      "quantity": 42
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Cooking Oil",
+      "mrp_price": 2653,
+      "discount_price": 2088,
+      "quantity": 88
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Sugar",
+      "mrp_price": 1931,
+      "discount_price": 1753,
+      "quantity": 51
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Salt",
+      "mrp_price": 3602,
+      "discount_price": 2866,
+      "quantity": 99
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Turmeric Powder",
+      "mrp_price": 736,
+      "discount_price": 100,
+      "quantity": 61
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Toor Dal",
+      "mrp_price": 4960,
+      "discount_price": 4620,
+      "quantity": 34
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Chilli Powder",
+      "mrp_price": 2454,
+      "discount_price": 1911,
+      "quantity": 97
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Tea Powder",
+      "mrp_price": 2499,
+      "discount_price": 2152,
+      "quantity": 66
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Coffee Powder",
+      "mrp_price": 3237,
+      "discount_price": 2713,
+      "quantity": 40
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Mustard Seeds",
+      "mrp_price": 2350,
+      "discount_price": 1810,
+      "quantity": 33
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Soap",
+      "mrp_price": 2227,
+      "discount_price": 1616,
+      "quantity": 82
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Toothpaste",
+      "mrp_price": 4875,
+      "discount_price": 4307,
+      "quantity": 25
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Toilet Cleaner",
+      "mrp_price": 2656,
+      "discount_price": 1994,
+      "quantity": 46
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Detergent Powder",
+      "mrp_price": 1632,
+      "discount_price": 708,
+      "quantity": 66
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Biscuits",
+      "mrp_price": 1428,
+      "discount_price": 745,
+      "quantity": 22
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Chips",
+      "mrp_price": 763,
+      "discount_price": 100,
+      "quantity": 45
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Honey",
+      "mrp_price": 4207,
+      "discount_price": 4002,
+      "quantity": 82
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Jam",
+      "mrp_price": 1903,
+      "discount_price": 1579,
+      "quantity": 45
+    }
+  },
+  {
+    "model": "accounts.product",
+    "fields": {
+      "category": 10,
+      "product_name": "Pickle",
+      "mrp_price": 2855,
+      "discount_price": 2518,
+      "quantity": 46
+    }
+  }
+]
